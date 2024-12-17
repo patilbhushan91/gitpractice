@@ -1,4 +1,4 @@
 This is first line in my file
 i am adding second line with new git branch name temp1
 i am adding third line and my 2nd commit in temp1 branch
-i am adding fourth line and my 3rd commit in temp1 branch
+i changed fourth line to check merging error
